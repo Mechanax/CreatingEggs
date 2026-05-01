@@ -1,0 +1,32 @@
+{
+    "name": "Spookin",
+    "author": "Cuyoya",
+    "description": "For spookin' and jumpscare combos",
+    "emote":{
+        "isLoop": "true",
+        "returnTick": 1,
+        "beginTick":0,
+        "endTick":239,
+        "stopTick":240,
+        "degrees":false,
+        "moves":[
+            
+            {
+                "tick":2,
+                "easing": "LINEAR",
+                "turn": 0,
+                "torso":{
+                    "y":-3.112499952316284
+                }
+            },
+            {
+                "tick":239,
+                "easing": "LINEAR",
+                "turn": 0,
+                "torso":{
+                    "y":-2.9574999809265137
+                }
+            }
+        ]
+    }
+}
