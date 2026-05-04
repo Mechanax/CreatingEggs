@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+     "minecraft:villages",
+	 "cataclysm:ancient_factory",
+     "cataclysm:burning_arena",
+     "cataclysm:cursed_pyramid",
+     "cataclysm:frosted_prison",
+     "cataclysm:ruined_citadel",
+     "cataclysm:soul_black_smith",
+     "cataclysm:sunken_city",
+     "cataclysm:kobolediator_shrine",
+	 "integrated_stronghold:stronghold"
+  ]
+}

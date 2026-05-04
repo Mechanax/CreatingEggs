@@ -1,4 +1,3 @@
-
 # #----------------------------------------------------------------------
 #     Welcome to CSC! CSC (formerly Create:SchematicChecker | Create: Schematic Validator)
 # is a blueprint scanning mod specifically designed for Create and all its addons. It helps prevent any known potential or malicious exploits.
@@ -13,7 +12,11 @@
 # Choose a language you want to use     zh_cn / zh_tw / ja_jp / en_us 
 Language = "en_us"
 
-UUID = "d4bcaf75-29a4-49d6-8a13-61a115f56e4d"
+# #----------------------------------------------------------------------
+# CSC config version. If this value is different from the current CSC version, the old config will be archived and a fresh config will be generated.
+ConfigVersion = "1.21.22"
+
+UUID = "d0baee76-5e4b-4ad3-ab73-53ef2bcd1676"
 
 [core]
     # #----------------------------------------------------------------------
@@ -23,8 +26,11 @@ UUID = "d4bcaf75-29a4-49d6-8a13-61a115f56e4d"
     # The time if checker is timeout!
     DelayTime = 10
     # #----------------------------------------------------------------------
-    # Whether to enable whitelist mode. Recommended to enable, as it can directly eliminate blueprint vulnerabilities caused by unfamiliar mods
-    WhiteListModEnable = true
+    # Whether to enable mod id whitelist mode. Recommended to enable, as it can directly eliminate blueprint vulnerabilities caused by unfamiliar mods
+    WhiteListModEnable = false
+    # #----------------------------------------------------------------------
+    # Whether to show a scan-complete notice about mod id whitelist mode status
+    ShowWhitelistModeNotice = true
     # #----------------------------------------------------------------------
     # Only mods listed here will be allowed to retain NBT. Enter the modid (e.g., for minecraft:dirt, enter minecraft)
     WhiteListModList = [
@@ -38,6 +44,9 @@ UUID = "d4bcaf75-29a4-49d6-8a13-61a115f56e4d"
         "createsifter",
         "computercraft",
         "mekanism",
+        "simulated",
+        "aeronautics",
+        "offroad",
         "yuushya" ]
     # #----------------------------------------------------------------------
     # The Block or Item you don't want to emerge in Schematic

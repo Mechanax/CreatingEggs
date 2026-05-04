@@ -1,0 +1,54 @@
+- Version Changes
+----------------------------------------------------------------------------------------------------
+Athena 4.0.2 -> 4.0.5
+Crafting Tweaks 21.1.9 -> 21.1.10
+Create: Central Kitchen 2.3.0 -> 2.4.0
+Create: Schematic Checker 1.21.20 -> 1.21.22
+Dynamic Trees - Quark 2.6.0 -> 2.6.1
+Farmer's Delight 1.2.11a -> 1.3.1
+Inventory Essentials 21.1.14 -> 21.1.15
+Ixeris 4.1.10 -> 4.2.0
+LDLib 2.2.6 -> 2.2.7
+Lootr (Forge & NeoForge) 1.11.37.118 -> 1.11.37.119
+Moonlight Lib 2.29.33 -> 3.0.3
+My Nether's Delight 1.9 -> 1.10.2
+Neruina - Ticking Entity Fixer 2.2.11 -> 3.3.1
+ReEstrogen 2.2.4 -> 2.5
+Sable Schematic Tool 0.1.6 -> 0.2.1
+Scholar 1.1.13 -> 1.1.14
+Sophisticated Backpacks 3.25.42.1709 -> 3.25.44.1736
+Sophisticated Core 1.4.33.1808 -> 1.4.35.1823
+Sophisticated Storage 1.5.45.1697 -> 1.5.46.1717
+Supplementaries 3.5.34 -> 3.6.1
+TrashSlot 21.1.9 -> 21.1.10
+----------------------------------------------------------------------------------------------------
+
+- Added
+----------------------------------------------------------------------------------------------------
+Better Fps - Render Distance[Forge]
+Concurrent Chunk Management Engine
+CBC Enchanced Shells
+Packing Tape
+Nutritional Balance
+ServerCore
+Starcatcher
+Steam 'n' Rails Neoforge
+----------------------------------------------------------------------------------------------------
+
+- Removed
+----------------------------------------------------------------------------------------------------
+Carry On
+CC: Tweaked duplicate version
+Explorer's Compass duplicate mod
+----------------------------------------------------------------------------------------------------
+
+- Config/Datapack/etc
+----------------------------------------------------------------------------------------------------
+Added fixed the emotecraft emotes not showing up
+----------------------------------------------------------------------------------------------------
+
+- KubeJS
+----------------------------------------------------------------------------------------------------
+Reenabled base Create Brass recipe
+Changed metal melting mixer recipes to use superheated blaze burners
+----------------------------------------------------------------------------------------------------
