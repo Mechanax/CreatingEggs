@@ -54,3 +54,6 @@ downloads
 datapacks
 .cache
 figura/cache
+/.pg*
+/debug
+/win*
