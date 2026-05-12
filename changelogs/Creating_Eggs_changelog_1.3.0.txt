@@ -1,24 +1,79 @@
 - Version Changes
 ----------------------------------------------------------------------------------------------------
-w.i.p
+Athena 4.0.5 -> 4.0.6
+CC:Sable 1.2.3 -> 1.2.4
+Colorwheel 1.2.4 -> 1.2.5
+Cooking for Blockheads 21.1.21 -> 21.1.23
+Crash Assistant 1.11.8 -> 1.11.9
+CrashExploitFixer 1.1.0 -> 2.0.0
+Create Stuff 'N Additions 2.1.0e -> 2.1.2
+Create: Expanded Logistics 1.2 -> 1.2.1
+EMI 1.1.22 -> 1.1.23
+Entity Culling Fabric/Forge 1.10.1 -> 1.10.2
+Glassential Renewed 3.2.1 -> 3.4.2
+Leaderboards 2.0.0 -> 2.0.3
+ModernFix 5.27.5 -> 5.27.7
+Moonlight Lib 3.0.5 -> 3.0.7
+More Relics 1.7.4 -> 1.7.4.1
+Not Enough Animations 1.12.2 -> 1.12.3
+Petrolpark Library 1.4.32 -> 1.4.34
+Quark 4.1-478 -> 4.1-479
+Raw's Visual keybinder 0.1.12 -> 0.1.13
+ReEstrogen 2.7 -> 2.9.3
+Supplementaries 3.6.3 -> 3.6.4
+WATERFrAMES: Multimedia Displays 2.1.22 -> 2.1.23
 ----------------------------------------------------------------------------------------------------
 
 - Added
 ----------------------------------------------------------------------------------------------------
-w.i.p
+Aaron
+Ars Additions
+Ars Controle
+Ars Creo
+Ars Elemancy
+Ars Elemental
+Ars Nouveau
+Ars Nouveau's Flavors & Delight
+Ars Polymorphia
+Ars Technica
+Create: Sound of Steam
+Create/Sable LambDynamicLights
+Eccentric Tome
+Excessive Utilities
+LambDynamicLights
+NauTec
+Not Enough Glyphs
+Reliquified Ars Nouveau
+Scorched Guns Neoforged
 ----------------------------------------------------------------------------------------------------
 
 - Removed
 ----------------------------------------------------------------------------------------------------
-w.i.p
+Accessories
+Accessories Compatibility Layer
+BetterGrassify
+Create Sable Dynamic Lights
+Connector Extras
+Forgified Fabric API
+Relics: Arcane Abilities
+Sinytra Connector
+Sodium/Embeddium Dynamic Lights
+Toni's Immersive Lanterns
+Torchmaster
 ----------------------------------------------------------------------------------------------------
 
 - Config/Datapack/etc
 ----------------------------------------------------------------------------------------------------
-w.i.p
+Enabled mixin.perf.deduplicate_location and mixin.perf.dynamic_resources in ModernFix Should help with ram usage
+Added new names to apotheosis bosses >:)
+Moved apoth attributes button back to the right side of the player in inv
+Disabled Books being given the first time a player joins
+Clumped a bunch of items in EMI by tag to reduce cluter
 ----------------------------------------------------------------------------------------------------
 
 - KubeJS
 ----------------------------------------------------------------------------------------------------
-w.i.p
+Added Eccentric Tome to hold all the guide books
+Eccentric Tome with all the guide books given on first join
+Textures for custom loot bags actually included this time
 ----------------------------------------------------------------------------------------------------
