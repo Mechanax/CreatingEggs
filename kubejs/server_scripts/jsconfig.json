@@ -1,8 +1,10 @@
 {
     "include": [
         "./**/*.js",
-        "./**/*.ts"
-    ],
+        "./**/*.ts",
+        "../../.probe/packages/generated-package/*.d.ts",
+        "../../.probe/server/generated-server/*.d.ts"
+, "lootBag.js.d"    ],
     "compilerOptions": {
         "module": "none",
         "moduleResolution": "node",
@@ -24,6 +26,7 @@
         "typeRoots": [
             "../../.probe/packages",
             "../../.probe/server"
-        ]
+        ],
+        "ignoreDeprecations": "6.0",
     }
 }

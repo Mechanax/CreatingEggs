@@ -1,0 +1,6 @@
+{
+  "type": "emixx:tag",
+  "id": "minecraft:is_nether",
+  "tag": "minecraft:is_nether",
+  "enabled": true
+}

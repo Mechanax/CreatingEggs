@@ -25,14 +25,15 @@ TrashSlot 21.1.9 -> 21.1.10
 
 - Added
 ----------------------------------------------------------------------------------------------------
-Better Fps - Render Distance[Forge]
+Better Fps - Render Distance
 Concurrent Chunk Management Engine
 CBC Enchanced Shells
+Create: Power Grid
 Packing Tape
 Nutritional Balance
 ServerCore
 Starcatcher
-Steam 'n' Rails Neoforge
+Steam 'n' Rails
 ----------------------------------------------------------------------------------------------------
 
 - Removed

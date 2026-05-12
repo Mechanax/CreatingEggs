@@ -1,0 +1,6 @@
+{
+  "type": "emixx:tag",
+  "id": "minecraft:is_overworld",
+  "tag": "minecraft:is_overworld",
+  "enabled": true
+}

@@ -134,7 +134,8 @@
       "buttons": {}
     },
     "dynamicIcons": {
-      "pearlville36.playat.ch": "https://api.mcsrvstat.us/icon/pearlville36.playat.ch"
+      "pearlville36.playat.ch": "https://api.mcsrvstat.us/icon/pearlville36.playat.ch",
+      "eggs.playat.ch": "https://api.mcsrvstat.us/icon/eggs.playat.ch"
     },
     "dynamicVariables": {
       "mods": "{general.mods} Mod(s)",

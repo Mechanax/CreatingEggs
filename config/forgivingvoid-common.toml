@@ -12,7 +12,7 @@ preventDeath = false
 #The amount of damage applied to the player when they land.
 damageOnFall = 19.0
 #The distance to the minimum y level at which Forgiving Void should forgive the player and send them towards the sky.
-triggerAtDistanceBelow = 32
+triggerAtDistanceBelow = 60
 #Set to true to have tridents with loyalty be affected by Forgiving Void. Not supported on Forge.
 tridentForgiveness = false
 #List of dimension ids to be allowed for Forgiving Void. Options triggerInOverworld etc. take priority.
