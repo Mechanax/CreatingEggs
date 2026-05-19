@@ -18,7 +18,7 @@
   "checkPose": true,
   "alwaysValidateEmote": false,
   "playersafety": true,
-  "stopthreshold": 0.04,
+  "stopthreshold": 0.49591845,
   "yratio": 0.75,
   "showHiddenConfig": false,
   "neverRemoveBadIcon": false,

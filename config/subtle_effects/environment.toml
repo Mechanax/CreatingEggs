@@ -51,7 +51,7 @@ bubbleGeyserActiveTime = 300
 bubbleGeyserInactiveTime = 500
 
 [fireflies]
-firefliesEnabled = true
+firefliesEnabled = false
 dimensionBlocklist = [
     "twilightforest:twilight_forest_type"
 ]

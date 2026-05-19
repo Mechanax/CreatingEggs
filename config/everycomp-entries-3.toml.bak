@@ -34,10 +34,6 @@
 		[types.stone_type.ars_nouveau]
 			sourcestone = true
 
-		[types.stone_type.pastel]
-			blackslag = true
-			preservation_stone = true
-
 		[types.stone_type.scguns]
 			phosphorite = true
 
@@ -85,24 +81,10 @@
 		[types.wood_type.ars_nouveau]
 			archwood = true
 
-		[types.wood_type.pastel]
-			black = true
-			blue = true
-			brown = true
-			cyan = true
-			gray = true
-			green = true
-			light_blue = true
-			light_gray = true
-			lime = true
-			magenta = true
-			orange = true
-			pink = true
-			purple = true
-			red = true
-			white = true
-			yellow = true
-			weeping_gala = true
+		[types.wood_type.enchanted]
+			alder = true
+			hawthorn = true
+			rowan = true
 
 		[types.leaves_type.biomeswevegone]
 			flowering_palo_verde = true
@@ -340,27 +322,6 @@
 			azalea = true
 			ancient = true
 
-		[types.leaves_type.pastel]
-			weeping_gala = true
-			nephrite_blossom = true
-			spirit_sallow = true
-			black = true
-			blue = true
-			brown = true
-			cyan = true
-			gray = true
-			green = true
-			light_blue = true
-			light_gray = true
-			lime = true
-			magenta = true
-			orange = true
-			pink = true
-			purple = true
-			red = true
-			white = true
-			yellow = true
-
 		[types.leaves_type.ars_nouveau]
 			blue_archwood = true
 			red_archwood = true
@@ -369,6 +330,11 @@
 
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
+
+		[types.leaves_type.enchanted]
+			alder = true
+			hawthorn = true
+			rowan = true
 
 #Disables specific entries
 [entries]

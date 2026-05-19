@@ -26,6 +26,7 @@
   "stopGameMusicForPlayers": true,
   "stopGameMusicForMobs": false,
   "uploadPermissionLevel": 0,
+  "rightClickToDropEntityInstrumentPermissionLevel": 0,
   "keycodeToMidi": {
     "89": 73,
     "87": 63,

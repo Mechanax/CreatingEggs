@@ -1,0 +1,42 @@
+{
+  "type": "apotheosis:attribute",
+  "attribute": "scguns:spread_multiplier",
+  "operation": "add_value",
+  "definition": {
+    "affix_type": "stat",
+    "exclusive_set": [],
+    "weights": {
+        "quality": 0.1,
+        "weight": 25
+    }
+  },
+  "values": {
+    "apotheosis:common": {
+      "min": -0.05,
+      "max": 2
+    },
+    "apotheosis:uncommon": {
+      "min": -0.10,
+      "max": 2
+    },
+    "apotheosis:rare": {
+      "min": -0.15,
+      "max": 2
+    },
+    "apotheosis:epic": {
+      "min": -0.20,
+      "max": 2
+    },
+    "apotheosis:mythic": {
+      "min": -0.25,
+      "max": 2
+    },
+    "ancientreforging:ancient": {
+      "min": -0.30,
+      "max": 2
+    }
+  },
+  "categories": [
+    "apotheosis:none"
+  ]
+}

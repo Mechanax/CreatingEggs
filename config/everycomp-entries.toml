@@ -37,8 +37,15 @@
 		[types.stone_type.scguns]
 			phosphorite = true
 
+		[types.stone_type.deeperdarker]
+			sculk_stone = true
+			gloomslate = true
+
 		[types.mud_type.biomeswevegone]
 			pale_mud = true
+
+		[types.mud_type.deeperdarker]
+			sculk_grime = true
 
 		[types.wood_type.mynethersdelight]
 			powdery = true
@@ -80,6 +87,10 @@
 
 		[types.wood_type.ars_nouveau]
 			archwood = true
+
+		[types.wood_type.deeperdarker]
+			bloom = true
+			echo = true
 
 		[types.leaves_type.biomeswevegone]
 			flowering_palo_verde = true
@@ -325,6 +336,9 @@
 
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
 
 #Disables specific entries
 [entries]

@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Mechana",
+      "uniqueId": "8ec690c4-d406-4dcc-bce3-dbc4d447bb39"
+    },
+    "time": 1779062643936,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SZdWcF7gi8"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Mechana",
+      "uniqueId": "8ec690c4-d406-4dcc-bce3-dbc4d447bb39"
+    },
+    "time": 1779062522468,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Y8Tmxu9Inb"
+    }
+  }
+]

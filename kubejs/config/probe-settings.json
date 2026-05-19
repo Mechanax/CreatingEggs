@@ -3,5 +3,12 @@
     "probejs.complete": false,
     "probejs.modHash": 494590186782566076,
     "probejs.enableDecompiler": false,
-    "probejs.generateBeans": true
+    "probejs.generateBeans": true,
+    "probejs.hintsForLLM": true,
+    "probejs.fullScanMods": [
+        "minecraft",
+        "kubejs",
+        "neoforge",
+        "summoningrituals"
+    ]
 }
