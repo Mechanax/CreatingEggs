@@ -1,25 +1,87 @@
-- Version Changes
+- Version Changes (Normaly I'd list the verson change but thats to many and I'm lazy)
 ----------------------------------------------------------------------------------------------------
-WIP
+Aaron
+AllTheLeaks (Memory Leak Fix)
+Almost Unified
+Apotheosis
+Apothic Enchanting
+Ars Creo
+Ars Nouveau
+Carbon Config
+CBC Enchanced Shells [Create Big Cannons]
+CC: Sable
+Colorwheel
+Concurrent Chunk Management Engine
+Create Additions - Sable Compat
+Create Stuff 'N Additions
+Create Ultimine
+Create: Dragons Plus
+Create: Schematic Checker
+CreativeCore
+EMI
+Euphoria Patches
+Farmer's Delight
+FTB Ultimine (NeoForge)
+Glassential Renewed
+GlitchCore
+Immersive Melodies [Fabric/Forge]
+Immersive Optimization
+Ixeris
+JourneyMap
+Kiwi 🥝 (Neo/Forge)
+KubeJS
+L_Ender 's Cataclysm
+LDLib
+Lionfish API
+Moonlight Lib
+NauTec
+Oh The Trees You'll Grow
+Petrolpark Library
+Platform
+Puzzles Lib
+ReEstrogen
+Sable Schematic Tool
+Scholar
+Scorched Guns Neoforged
+ServerCore
+Sophisticated Backpacks
+Sophisticated Core
+Sophisticated Storage
+Steam 'n' Rails Neoforge
+Supplementaries
+Tom's Peripherals
+Vanilla Backport
 ----------------------------------------------------------------------------------------------------
 
 - Added
 ----------------------------------------------------------------------------------------------------
-WIP
+Additional Attributes
+Ancient Reforging
+Apothic Compats
+Async Logger
+Deeper and Darker
+Fallen Gems & Affixes
+Forgified Fabric API
+Gnetum
+NBT Autocomplete
+Sinytra Connector
+Smart Completion
+Structurify – Structure Control
+Summoning Rituals
 ----------------------------------------------------------------------------------------------------
 
 - Removed
 ----------------------------------------------------------------------------------------------------
-WIP
+Something, can't remember what
 ----------------------------------------------------------------------------------------------------
 
 - Config/Datapack/etc
 ----------------------------------------------------------------------------------------------------
-WIP
+Disabled Subtle Effects fireflys due to causing lag on the client.
 ----------------------------------------------------------------------------------------------------
 
 - KubeJS
 ----------------------------------------------------------------------------------------------------
-WIP
+Enabled Waterframes recipes
 Made custom retiual with Summoning Retiuals mod
 ----------------------------------------------------------------------------------------------------

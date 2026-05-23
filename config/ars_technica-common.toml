@@ -22,8 +22,8 @@
 
 #Logic related to Fuse
 ["Glyph - Fuse"]
-	fluidCanBePlaced = true
-	fluidSourcesCanBePlaced = true
+	fluidCanBePlaced = false
+	fluidSourcesCanBePlaced = false
 	# Default: 16
 	# Range: 1 ~ 256
 	fluidMaxPlacementsPerFuse = 16

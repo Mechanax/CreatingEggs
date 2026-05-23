@@ -10,5 +10,6 @@
         "kubejs",
         "neoforge",
         "summoningrituals"
-    ]
+    ],
+    "probejs.newGame": false
 }
